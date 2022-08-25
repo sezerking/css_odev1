@@ -1,0 +1,34 @@
+.govde{
+    background-color: #1C3879;
+    text-align: center;
+}
+
+.baslik{
+    border: 14px outset pink;
+    color: #f9f5eb;
+    font-size: 24px;
+    
+    
+    
+}
+.yazi{
+    color: #f9f5eb;
+    font-size: 24px;
+
+}
+a{
+    color: pink;
+}
+.oyun{
+ text-align: center;   
+}
+
+img{
+    height: 300px;
+    border: 7px outset #607EAA ;
+}
+
+.anasayfa{
+    text-align: center;
+    background-color: #1C3879;
+}
